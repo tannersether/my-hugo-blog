@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tanner Blog</title>
+    <link>http://localhost/</link>
+    <description>Recent content on Tanner Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jun 2025 14:50:40 -0400</lastBuildDate>
+    <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost/posts/first-post/</link>
+      <pubDate>Fri, 13 Jun 2025 14:50:40 -0400</pubDate>
+      <guid>http://localhost/posts/first-post/</guid>
+      <description>&lt;p&gt;Hello, this is my very first Hugo blog post!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
