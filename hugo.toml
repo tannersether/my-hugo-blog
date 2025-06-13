@@ -2,3 +2,29 @@ baseURL = "http://localhost/"
 languageCode = "en-us"
 title = "Tanner Blog"
 theme = "ananke"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "#"
+    weight = 2
+
+  [[menu.main]]
+    parent = "blog"
+    name = "Nature"
+    url = "/nature/"
+    weight = 1
+
+  [[menu.main]]
+    parent = "blog"
+    name = "Other Writings"
+    url = "/other/"
+    weight = 2
