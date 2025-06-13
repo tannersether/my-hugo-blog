@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natures on Tanner Blog</title>
+    <link>http://localhost:1313/nature/</link>
+    <description>Recent content in Natures on Tanner Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jun 2025 19:22:36 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/nature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>http://localhost:1313/nature/nature/first_post/</link>
+      <pubDate>Fri, 13 Jun 2025 19:22:36 -0400</pubDate>
+      <guid>http://localhost:1313/nature/nature/first_post/</guid>
+      <description>&lt;p&gt;Blah blah leaves&lt;/p&gt;&#xA;&lt;p&gt;test test 123&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
