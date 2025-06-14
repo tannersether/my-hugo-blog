@@ -10,10 +10,10 @@
     <atom:link href="http://localhost:1313/nature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First_post</title>
-      <link>http://localhost:1313/nature/nature/first_post/</link>
+      <link>http://localhost:1313/nature/first_post/</link>
       <pubDate>Fri, 13 Jun 2025 19:22:36 -0400</pubDate>
-      <guid>http://localhost:1313/nature/nature/first_post/</guid>
-      <description>&lt;p&gt;Blah blah leaves&lt;/p&gt;&#xA;&lt;p&gt;test test 123&lt;/p&gt;</description>
+      <guid>http://localhost:1313/nature/first_post/</guid>
+      <description>&lt;p&gt;Blah blah leaves&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

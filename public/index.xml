@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tanner Blog</title>
-    <link>http://localhost/</link>
-    <description>Recent content on Tanner Blog</description>
+    <title>About Me on Tanner Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in About Me on Tanner Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jun 2025 14:50:40 -0400</lastBuildDate>
-    <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jun 2025 19:22:36 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>http://localhost:1313/nature/first_post/</link>
+      <pubDate>Fri, 13 Jun 2025 19:22:36 -0400</pubDate>
+      <guid>http://localhost:1313/nature/first_post/</guid>
+      <description>&lt;p&gt;Blah blah leaves&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First post</title>
+      <link>http://localhost:1313/other/first_post/</link>
+      <pubDate>Fri, 13 Jun 2025 19:22:29 -0400</pubDate>
+      <guid>http://localhost:1313/other/first_post/</guid>
+      <description>&lt;p&gt;Politics and stuff&lt;/p&gt;</description>
+    </item>
     <item>
       <title>First Post</title>
-      <link>http://localhost/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Fri, 13 Jun 2025 14:50:40 -0400</pubDate>
-      <guid>http://localhost/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>&lt;p&gt;Hello, this is my very first Hugo blog post!&lt;/p&gt;</description>
     </item>
   </channel>
