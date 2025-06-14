@@ -16,19 +16,31 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
 
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
-    weight = 2
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
+  weight = 2
 
   [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 3
+  parent = "blog"
+  name = "Nature"
+  url = "/blog/nature/"
+  weight = 1
+
+  [[menu.main]]
+  parent = "blog"
+  name = "Other Writings"
+  url = "/blog/other/"
+  weight = 2
+
+  [[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 3
