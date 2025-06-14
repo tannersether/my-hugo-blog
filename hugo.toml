@@ -6,7 +6,9 @@ theme = "ananke"
 # Optional: Add this if you're using the extended version of Hugo
 # to support themes with SASS or image processing
 enableRobotsTXT = true
-paginate = 10
+[pagination]
+  pagerSize = 10
+
 
 [params]
   description = "A blog about nature, writing, and whatever else comes to mind."
