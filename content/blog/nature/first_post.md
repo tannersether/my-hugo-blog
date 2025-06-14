@@ -17,3 +17,35 @@ I
 NEED
 
 TO TYPE 
+
+sGRF
+ W
+ G
+ G
+ ADG
+ G
+ G
+
+
+ G
+ EAG
+ D
+ G
+ B
+ TH
+ E
+ G
+
+
+
+
+
+
+
+ V
+ VV
+
+
+
+
+ WILL I BE SEEN??????
