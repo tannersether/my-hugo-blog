@@ -11,7 +11,13 @@
     <loc>http://localhost:1313/blog/nature/first_post/</loc>
     <lastmod>2025-06-13T19:22:36-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/nature/</loc>
+    <lastmod>2025-06-13T19:22:36-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/other/first_post/</loc>
+    <lastmod>2025-06-13T19:22:29-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/other/</loc>
     <lastmod>2025-06-13T19:22:29-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

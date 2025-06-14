@@ -9,11 +9,11 @@
     <lastBuildDate>Fri, 13 Jun 2025 19:22:36 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First_post</title>
+      <title>First post test</title>
       <link>http://localhost:1313/blog/nature/first_post/</link>
       <pubDate>Fri, 13 Jun 2025 19:22:36 -0400</pubDate>
       <guid>http://localhost:1313/blog/nature/first_post/</guid>
-      <description>&lt;p&gt;Blah blah leaves&lt;/p&gt;</description>
+      <description>&lt;p&gt;Blah blah leaves&lt;/p&gt;&#xA;&lt;p&gt;test&lt;/p&gt;&#xA;&lt;p&gt;srgkjbwkjFB&lt;/p&gt;&#xA;&lt;p&gt;HOW MUCH DO&lt;/p&gt;&#xA;&lt;p&gt;I&lt;/p&gt;&#xA;&lt;p&gt;NEED&lt;/p&gt;&#xA;&lt;p&gt;TO TYPE&lt;/p&gt;&#xA;&lt;p&gt;sGRF&#xA;W&#xA;G&#xA;G&#xA;ADG&#xA;G&#xA;G&lt;/p&gt;&#xA;&lt;p&gt;G&#xA;EAG&#xA;D&#xA;G&#xA;B&#xA;TH&#xA;E&#xA;G&lt;/p&gt;&#xA;&lt;p&gt;V&#xA;VV&lt;/p&gt;&#xA;&lt;p&gt;WILL I BE SEEN??????&lt;/p&gt;</description>
     </item>
     <item>
       <title>First post</title>
@@ -27,7 +27,7 @@
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;You can reach me here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📧 Email: &lt;a href=&#34;mailto:you@example.com&#34;&gt;you@example.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/yourhandle&#34;&gt;@tannersether&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;📷 Instagram: &lt;a href=&#34;https://instagram.com/yourhandle&#34;&gt;@tannersether&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;💬 More coming soon!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;You can reach me here:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📧 Email: &lt;a href=&#34;mailto:tannersether@gmail.com&#34;&gt;tannersether@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/tannersether&#34;&gt;@tannersether&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;📷 Instagram: &lt;a href=&#34;https://instagram.com/tannersether&#34;&gt;@tannersether&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;💬 More coming soon!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

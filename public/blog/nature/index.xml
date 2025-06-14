@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nature on Tanner&#39;s Site</title>
+    <link>http://localhost:1313/blog/nature/</link>
+    <description>Recent content in Nature on Tanner&#39;s Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jun 2025 19:22:36 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/nature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post test</title>
+      <link>http://localhost:1313/blog/nature/first_post/</link>
+      <pubDate>Fri, 13 Jun 2025 19:22:36 -0400</pubDate>
+      <guid>http://localhost:1313/blog/nature/first_post/</guid>
+      <description>&lt;p&gt;Blah blah leaves&lt;/p&gt;&#xA;&lt;p&gt;test&lt;/p&gt;&#xA;&lt;p&gt;srgkjbwkjFB&lt;/p&gt;&#xA;&lt;p&gt;HOW MUCH DO&lt;/p&gt;&#xA;&lt;p&gt;I&lt;/p&gt;&#xA;&lt;p&gt;NEED&lt;/p&gt;&#xA;&lt;p&gt;TO TYPE&lt;/p&gt;&#xA;&lt;p&gt;sGRF&#xA;W&#xA;G&#xA;G&#xA;ADG&#xA;G&#xA;G&lt;/p&gt;&#xA;&lt;p&gt;G&#xA;EAG&#xA;D&#xA;G&#xA;B&#xA;TH&#xA;E&#xA;G&lt;/p&gt;&#xA;&lt;p&gt;V&#xA;VV&lt;/p&gt;&#xA;&lt;p&gt;WILL I BE SEEN??????&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
